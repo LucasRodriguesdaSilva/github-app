@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-### Este é projeto frontend com componentes reutilizáveis.
+### Este é um projeto frontend com componentes reutilizáveis feito com React.
 
 ## Bibliotecas usadas:
 - axios
@@ -12,4 +12,5 @@
 - styled-components
 
 
-
+#### Projeto feito com a ajuda do canal:
+![image](https://api.iconify.design/logos:youtube-icon.svg)  [  O Mateus Benits](https://www.youtube.com/channel/UCFy-US4vCX_1TQt0Z1n6guA)
